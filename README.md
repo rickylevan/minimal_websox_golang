@@ -1,6 +1,6 @@
 # Minimal Working Example of WebSockets with Go Server
 
-This is basically the code from this awesome video https://www.youtube.com/watch?v=dniVs0xKYKk&t=317s from TutorialEdge. This is how I finally got a WebSockets Hello World working on my local machine, after several google-searched blog posts failed to deliver. (No pointing fingers...)
+This is basically the code from [this awesome video](https://www.youtube.com/watch?v=dniVs0xKYKk&t=317s) from TutorialEdge. This is how I finally got a WebSockets Hello World working on my local machine, after several google-searched blog posts failed to deliver. (No pointing fingers...)
 
 This code works, and deployment is easy. But I won't assume it's obvious. Instead, I'll be explicit. 🤓😄 Here goes:
 
